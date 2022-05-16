@@ -1,0 +1,26 @@
+###################
+#                 #
+# SignRefill 1.0  #
+#                 #
+#  by zNotHydr0   #
+###################
+
+AUTO-CREATE-SIGN-PERMISSION: "create.sign" # Permission to automatically create the signs with "[Refill]" or "[Trash]".
+
+POTS-SIGN-LINE-1: "&7[&bRefill&7]"
+POTS-SIGN-LINE-2: "&3Pots"
+POTS-SIGN-LINE-3: ""
+POTS-SIGN-LINE-4: ""
+POTS-SIGN-INVENTORY-TITLE: "§7Pot Refill Inventory" # FOR TITLES USE "§"
+
+SOUPS-SIGN-LINE-1: "&7[&bRefill&7]"
+SOUPS-SIGN-LINE-2: "&3Soups"
+SOUPS-SIGN-LINE-3: ""
+SOUPS-SIGN-LINE-4: ""
+SOUPS-SIGN-INVENTORY-TITLE: "§7Soup Refill Inventory" # FOR TITLES USE "§"
+
+TRASH-SIGN-LINE-1: "&7[&bTrash&7]"
+TRASH-SIGN-LINE-2: "&3Bin"
+TRASH-SIGN-LINE-3: ""
+TRASH-SIGN-LINE-4: ""
+TRASH-SIGN-INVENTORY-TITLE: "§7Trash Bin" # FOR TITLES USE "§"

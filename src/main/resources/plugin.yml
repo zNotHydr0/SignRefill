@@ -1,0 +1,7 @@
+name: SignRefill
+version: "1.0"
+main: dev.strafeland.club.signrefill.Main
+api-version: 1.18
+authors: [ zNotHydr0 ]
+description: A simple Sign Refill for FFA, KitMap and others
+website: www.strafeland.club
