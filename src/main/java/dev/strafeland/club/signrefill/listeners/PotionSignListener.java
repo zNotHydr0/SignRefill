@@ -82,19 +82,6 @@ public class PotionSignListener implements Listener {
         inv.setItem(52, new ItemStack(Material.POTION, 1, (short)16421));
         inv.setItem(53, new ItemStack(Material.POTION, 1, (short)16421));
         inv.setItem(54, new ItemStack(Material.POTION, 1, (short)16421));
-        ItemStack goldsword = new ItemStack(Material.GOLDEN_SWORD, 1);
-        ItemStack healpot = new ItemStack(Material.POTION, 1, (short)16421);
-        int in1;
-        for (in1 = 0; in1 < 9; in1++)
-            inv.setItem(in1, healpot);
-        for (in1 = 9; in1 < 18; in1++)
-            inv.setItem(in1, healpot);
-        for (in1 = 19; in1 < 29; in1++)
-            inv.setItem(in1, healpot);
-        for (in1 = 30; in1 < 36; in1++)
-            inv.setItem(in1, healpot);
-        for (in1 = 45; in1 < 54; in1++)
-            inv.setItem(in1, goldsword);
         player.openInventory(inv);
         return inv;
     }
